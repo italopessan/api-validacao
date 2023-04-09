@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api-validacao", "api-validacao\api-validacao.csproj", "{7F051B8B-9F65-4E4A-9FA4-218B2A1B115D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F051B8B-9F65-4E4A-9FA4-218B2A1B115D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F051B8B-9F65-4E4A-9FA4-218B2A1B115D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F051B8B-9F65-4E4A-9FA4-218B2A1B115D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F051B8B-9F65-4E4A-9FA4-218B2A1B115D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3271F31-A50D-4F9F-A6FE-31507C1EE8D4}
+	EndGlobalSection
+EndGlobal
