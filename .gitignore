@@ -1,0 +1,86 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Xx]64/
+[Xx]86/
+[Bb]uild/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.dll
+*.exe
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+*.vsidx
+
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+/bazel-out
+/src/generated
+
+# Node
+/node_modules
+npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
+
+# Miscellaneous
+/.angular/cache
+/.firebase/
+.sass-cache/
+/connect.lock
+/coverage
+/libpeerconnection.log
+firebase-debug.log
+testem.log
+/typings
+
+# e2e
+protractor-results*.txt
+
+# System files
+.DS_Store
+Thumbs.db
+
+\FileContentIndex
+.vs/CliniCorp/FileContentIndex/faeff55d-5d86-4ac4-80b7-8bf38baec674.vsidx
+*.vsidx
+*.v2
